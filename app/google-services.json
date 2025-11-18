@@ -12,7 +12,20 @@
           "package_name": "com.example.parlevangers"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "961784488490-marq9btqsku2p9kl8d2voc88m8k36t93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parlevangers",
+            "certificate_hash": "d95124d2f6f852401538fe46f38cb0cafaabb61f"
+          }
+        },
+        {
+          "client_id": "961784488490-8788fj8qhl0vd5ldgbbrfmldhtscpcsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAnjvoeXnHH6y93oEVpBnDNFHwAmIhRSdc"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961784488490-8788fj8qhl0vd5ldgbbrfmldhtscpcsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
